@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|c:\\users\\admin\\downloads\\bt_nhom (2) (1)\\bt_nhom\\ham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:ham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|c:\\users\\admin\\downloads\\bt_nhom (2) (1)\\bt_nhom\\trinh_do.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:trinh_do.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\trinh_do.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:trinh_do.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|c:\\users\\admin\\downloads\\bt_nhom (2) (1)\\bt_nhom\\trinh_do.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:trinh_do.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\Luong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:Luong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|c:\\users\\admin\\downloads\\bt_nhom (2) (1)\\bt_nhom\\bt_nhom.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:bt_nhom.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|c:\\users\\admin\\downloads\\bt_nhom (2) (1)\\bt_nhom\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|c:\\users\\admin\\downloads\\bt_nhom (2) (1)\\bt_nhom\\tranhchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:tranhchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|c:\\users\\admin\\downloads\\bt_nhom (2) (1)\\bt_nhom\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|c:\\users\\admin\\downloads\\bt_nhom (2) (1)\\bt_nhom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|c:\\users\\admin\\downloads\\bt_nhom (2) (1)\\bt_nhom\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|c:\\users\\admin\\downloads\\bt_nhom (2) (1)\\bt_nhom\\tranhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:tranhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\tranhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:tranhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F59FF2BF-43CB-468C-83B8-B1E0CB8622A8}|BT_NHom.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:04:30.468Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "teacher.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\teacher.cs",
+              "RelativeDocumentMoniker": "teacher.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\teacher.cs",
+              "RelativeToolTip": "teacher.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:23:31.772Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BT_NHom",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\BT_NHom.csproj",
+              "RelativeDocumentMoniker": "BT_NHom.csproj",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\BT_NHom.csproj",
+              "RelativeToolTip": "BT_NHom.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T13:31:48.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "trinh_do.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\trinh_do.Designer.cs",
+              "RelativeDocumentMoniker": "trinh_do.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\trinh_do.Designer.cs",
+              "RelativeToolTip": "trinh_do.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:04:26.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "trinh_do.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\trinh_do.cs",
+              "RelativeDocumentMoniker": "trinh_do.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\trinh_do.cs",
+              "RelativeToolTip": "trinh_do.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwG0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:24:44.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ham.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\Ham.cs",
+              "RelativeDocumentMoniker": "Ham.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\Ham.cs",
+              "RelativeToolTip": "Ham.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA2wBcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:14:49.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:27:56.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Luong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\Luong.cs",
+              "RelativeDocumentMoniker": "Luong.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\Luong.cs [Design]",
+              "RelativeToolTip": "Luong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:09:44.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "trinh_do.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\trinh_do.cs",
+              "RelativeDocumentMoniker": "trinh_do.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\trinh_do.cs [Design]",
+              "RelativeToolTip": "trinh_do.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:27:15.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "teacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\teacher.cs",
+              "RelativeDocumentMoniker": "teacher.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\teacher.cs [Design]",
+              "RelativeToolTip": "teacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:12.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TranhChinh.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\TranhChinh.cs",
+              "RelativeDocumentMoniker": "TranhChinh.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\TranhChinh.cs",
+              "RelativeToolTip": "TranhChinh.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAIAwwHUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:02:11.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TranhChinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\TranhChinh.cs",
+              "RelativeDocumentMoniker": "TranhChinh.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\TranhChinh.cs [Design]",
+              "RelativeToolTip": "TranhChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:05:56.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:05:48.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:04:22.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TranhChinh.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\TranhChinh.Designer.cs",
+              "RelativeDocumentMoniker": "TranhChinh.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\BT_NHom (2) (1)\\BT_NHom\\TranhChinh.Designer.cs",
+              "RelativeToolTip": "TranhChinh.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:05:40.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

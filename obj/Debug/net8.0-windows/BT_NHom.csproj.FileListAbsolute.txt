@@ -1,0 +1,50 @@
+D:\lap_trinh_ung_dung\BT_NHom\bin\Debug\net8.0-windows\BT_NHom.exe
+D:\lap_trinh_ung_dung\BT_NHom\bin\Debug\net8.0-windows\BT_NHom.deps.json
+D:\lap_trinh_ung_dung\BT_NHom\bin\Debug\net8.0-windows\BT_NHom.runtimeconfig.json
+D:\lap_trinh_ung_dung\BT_NHom\bin\Debug\net8.0-windows\BT_NHom.dll
+D:\lap_trinh_ung_dung\BT_NHom\bin\Debug\net8.0-windows\BT_NHom.pdb
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.csproj.GenerateResource.cache
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.GeneratedMSBuildEditorConfig.editorconfig
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.AssemblyInfoInputs.cache
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.AssemblyInfo.cs
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.csproj.CoreCompileInputs.cache
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.dll
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\refint\BT_NHom.dll
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.pdb
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.genruntimeconfig.cache
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\ref\BT_NHom.dll
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.TranhChinh.resources
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.Properties.Resources.resources
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.Login.resources
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.teacher.resources
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.trinh_do.resources
+D:\lap_trinh_ung_dung\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.Luong.resources
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.Login.resources
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.Luong.resources
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.Properties.Resources.resources
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.teacher.resources
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.TranhChinh.resources
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.trinh_do.resources
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.AssemblyInfo.cs
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.dll
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\refint\BT_NHom.dll
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.pdb
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\bin\Debug\net8.0-windows\BT_NHom.exe
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\bin\Debug\net8.0-windows\BT_NHom.deps.json
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\bin\Debug\net8.0-windows\BT_NHom.runtimeconfig.json
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\bin\Debug\net8.0-windows\BT_NHom.dll
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\bin\Debug\net8.0-windows\BT_NHom.pdb
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.csproj.Up2Date
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\BT_NHom.genruntimeconfig.cache
+C:\Users\admin\Downloads\BT_NHom (2) (1)\BT_NHom\obj\Debug\net8.0-windows\ref\BT_NHom.dll
